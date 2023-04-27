@@ -42,9 +42,9 @@
 <svelte:head>
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<meta name="og:title" content="afn.lol" />
+	<meta name="og:title" content="AIRbauer aka Vik" />
 	<meta content="/default.png" property="og:image" />
-	<meta property="og:description" content="the only website ever" />
+	<meta property="og:description" content="1000x kisses xo xo" />
 	<meta name="twitter:image" itemprop="image" content="/default.png" />
 	<meta name="twitter:card" content="summary" />
 	<meta name="theme-color" content="#CCE2F2" />

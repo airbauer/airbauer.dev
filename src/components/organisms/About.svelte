@@ -26,16 +26,20 @@
 			Hey there, I'm Vik! :] I'm a <Tooltip tip={age}
 				><span>{Math.floor(Number(age))}</span></Tooltip
 			>
-			year old programmer and graphic/UI designer based in Germany. I’ve taken Programming seriously since
-			<span>2019</span>, and have been doodling little projects since <span>2020</span>.
-			I’ve grown a knack for programming. I like contributing to
+			year old Programmer based in Germany🏛️. I’ve taken programming seriously since
+			<span>2019</span>, and have been doodling little Projects since <span>2020</span>.
+			However, sadly most of my Work is Private, so i cant show it to you :[. I like to use Git with in my oppinion the best Git Client 
 			<Tooltip tip="🤓">
 				<a href="https://github.com/real-airbauer" target="_blank" rel="noreferrer">
 					<span>GitHub</span>
 				</a>
 			</Tooltip>
-			as a web developer, which is probably the reason why you've ended up here. Currently struggling
-			with C# and Typescript.
+			. The Language that have my heart is <Tooltip tip="🔝">
+				<a href="https://js.org/" target="_blank" rel="noreferrer">
+					<span>JS</span>
+				</a>
+			</Tooltip>.
+			
 		</p>
 	</div>
 </section>
@@ -72,7 +76,7 @@
 	}
 
 	.text::before {
-		@include outlineText($content: 'afn', $translateX: 97%, $translateY: -5%, $fontSize: 300px);
+		@include outlineText($content: 'airbauer', $translateX: 97%, $translateY: -5%, $fontSize: 300px, $opacity: 0.22);
 	}
 
 	h2 {

@@ -27,7 +27,7 @@
 	};
 
 	function localTime() {
-		state = new Date().toLocaleTimeString('de-DE', { timeZone: 'Europe/Berlin' });
+		state = new Date().toLocaleTimeString('en-US', { timeZone: 'Europe/Berlin' });
 	}
 
 	function musicProgress(spotify: Spotify) {

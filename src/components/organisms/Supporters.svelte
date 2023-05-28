@@ -1,30 +1,21 @@
 <script lang="ts">
-	const supporters = [
-		{
-			name: 'afterst0rm',
-			icon: '/supporters/afterst0rm.webp',
-			message:
-				"I wish I could do more, but I appreciate your work and creativity. You'll achieve great highs, brother. Big hugs from your Brazilian friend."
-		},
-		{
-			name: 'Kevin T.',
-			icon: '/supporters/kevin_t.webp',
-			message: 'hi'
-		},
-		{
-			name: 'Taku',
-			icon: '/supporters/taku.webp',
-			message: '3 Covfefe'
-		}
-	];
+	import supporters from '../../util/supporters.json'
 </script>
 
 <section class="wrapper">
 	<div class="title">
-		<h2>most of my work is private ^^</h2>
-		<p>sorry...</p>
+		<h2>supporters</h2>
+		<p>Thank you!</p>
 	</div>
 
+	<div class="donations">
+		{#each supporters as { name, icon, message }}
+			<div class="donator">
+				<img src={icon} alt={name} />
+				<h6>{name}</h6>
+			</div>
+		{/each}
+	</div>
 </section>
 
 <style lang="scss">

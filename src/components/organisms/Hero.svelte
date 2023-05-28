@@ -13,11 +13,11 @@
 <section id="home" class="wrapper">
 	<div>
 		<h1>AIRbauer</h1>
-		<h4>Hobby Programmer and <br />Gamer.</h4>
+		<h4>Hobbyist Programmer and Gamer. <br />Attempting to UI/design.</h4>
 		<div class="socials">
 			<Socials />
 		</div>
-		<Button side on:click={handleClick} on:keypress={handleClick}>Discover my work ↓</Button>
+		<Button side on:click={handleClick} on:keypress={handleClick}>A little of my work ↓</Button>
 	</div>
 	<HeroImage />
 </section>

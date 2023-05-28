@@ -1,0 +1,53 @@
+https://keybase.io/airbauer
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://airbauer.eu
+  * I am airbauer (https://keybase.io/airbauer) on keybase.
+  * I have a public key ASC0ucJOoAMIX89Xg2lYGAPwimDSGcfYEOaLTzo190btpwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b4b9c24ea003085fcf578369581803f08a60d219c7d810e68b4f3a35f746eda70a",
+      "host": "keybase.io",
+      "kid": "0120b4b9c24ea003085fcf578369581803f08a60d219c7d810e68b4f3a35f746eda70a",
+      "uid": "d9a638a34c0009618a1f76f6be372719",
+      "username": "airbauer"
+    },
+    "merkle_root": {
+      "ctime": 1685306879,
+      "hash": "ccdb06e8adbaff5869f5a6138dd852ebbc540ded0a38ee5b9139e9fb181d4985fa48fe6c45463a62dfb3dfa896bcf1a53efb4ac6ac6dca85b9f380e4815bb4a8",
+      "hash_meta": "de67d6be14bada2e07b83407c1eb9e2d626def9e0a5524b9faf32227142c0120",
+      "seqno": 24505396
+    },
+    "service": {
+      "entropy": "RaXqB1JxfzDdt0CB0CK+oVQy",
+      "hostname": "airbauer.eu",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1685306912,
+  "expire_in": 504576000,
+  "prev": "97beb03393384e7edc09c8e0e6acd68163d6d3db7fbe1513b77bc4fda80e4ebe",
+  "seqno": 28,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgtLnCTqADCF/PV4NpWBgD8Ipg0hnH2BDmi086NfdG7acKp3BheWxvYWTESpcCHMQgl76wM5M4Tn7cCcjg5qzWgWPW09t/vhUTt3vE/agOTr7EIAHOv9JGE6cn6Mq/Kg9FKDdaWiLOFp3Lgl9xHXaaWbtfAgHCo3NpZ8RAoflUxuqll4Dh3OY2Bk5VFipjHx3jQMpUdw8Vvb6MwETUSwY1mgGE9u6RS9OFyNZ8bOYlmnhWNdBDIbCIgCygB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINTTg2aOQds4pS566ceLWkek2vkSIKTQT9lHUj2AVI9io3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/airbauer

@@ -6,7 +6,7 @@
 
 	onMount(async () => {
 		const response = await fetch('https://gh-pinned.nxl.sh/api/user/real-airbauer');
-		repos = await response.json();
+		repos = await response.json(); 
 	});
 </script>
 

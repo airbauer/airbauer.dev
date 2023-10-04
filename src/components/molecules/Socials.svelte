@@ -8,7 +8,7 @@
 	<Social icon="discord" tip={user.fullName()} link={`https://discord.com/users/${user.id}`} />
 	<Social icon="email" tip="airbauer@tuta.io" link="mailto:airbauer@tuta.io" />
 	<Social icon="kofi" tip="@airbauer" link="https://ko-fi.com/airbauer" />
-	<Social icon= "keybase" tip="airbauer" link="https://keybase.io/airbauer" />
+	<Social icon= "open" tip="airbauer" link="https://keybase.io/airbauer" />
 	<Social icon="open" tip="portfolio.airbauer.eu" link="https://portfolio.airbauer.eu" />
 </div>
 

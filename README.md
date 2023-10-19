@@ -7,7 +7,7 @@ I decided I needed to finally rewrite my site after staring at my horrid old cod
 ## 📝 Notes
 
 - Thanks to [Lanyard API](https://github.com/Phineas/lanyard) for exposing my Discord Rich Presence
-- Burn your eyes at [v1.airbauer.lol](https://old.airbauer.eu/)
+- Burn your eyes at [old.airbauer.eu](https://old.airbauer.eu/)
 
 ## ⚖️ Licensing
 
